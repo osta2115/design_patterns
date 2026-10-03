@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+out/
+.classpath
+.project
+.settings/
+.env
+
+### Mac OS ###
+.DS_Store
